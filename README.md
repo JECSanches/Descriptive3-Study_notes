@@ -1,6 +1,7 @@
 # Análise Descritiva 3 - Gráficos interativos
 
 (Analisando dados temporais)
+
 Conhecimentos: 
 
 - Carregar dados de índices ou ativos financeiros usando Python
